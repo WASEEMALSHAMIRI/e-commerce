@@ -1,0 +1,54 @@
+.imgCard{
+  padding:0 10px;
+  height: 390px;
+}
+
+ .textdes{
+ height: 45px;
+ overflow: hidden;
+ }
+.headers{
+  background-color: rgb(198, 200, 204) !important;
+  height: 50px;
+
+  padding-left: 20px;
+  padding-top: 10px;
+ }
+.order{
+  height: 230px !important;
+}
+
+.imagCart{
+  width: 100%;
+  height: 100%;
+}
+.itempro{
+  height: 150px;
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+}
+.homepage{
+  margin-top: 80px;
+min-height: 81vh;
+}
+.links{
+  text-decoration: none;
+}
+.t-about{
+  letter-spacing: 2px;
+  word-spacing: 8px;
+}
+.navlink{
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+.texttitle{
+  height: 40px;
+  overflow: hidden;
+}
+.itemcardes{
+  height:350px ;
+  max-width: 300px;
+  margin-left: 20px;
+}
